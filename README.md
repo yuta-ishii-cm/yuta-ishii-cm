@@ -145,6 +145,7 @@ const yuta: Developer = {
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [産業支援グループ 製造ビジネステクノロジー部にジョインしました、石井悠汰（いしいゆうた）です。](https://dev.classmethod.jp/articles/join-ishii-20251104/)
 <!-- BLOG-POST-LIST:END -->
 
 > 📌 Blog posts from [DevelopersIO](https://dev.classmethod.jp/author/ishii-yuta/) will appear here with GitHub Actions!

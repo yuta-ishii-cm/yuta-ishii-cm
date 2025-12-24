@@ -145,7 +145,7 @@ const yuta: Developer = {
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [入社して1ヶ月半が経ったので振り返ってみた](https://dev.classmethod.jp/articles/2/)
+- [入社して1ヶ月半が経ったので振り返ってみた](https://dev.classmethod.jp/articles/reflection-1month-20251219/)
 - [産業支援グループ 製造ビジネステクノロジー部にジョインしました、石井悠汰（いしいゆうた）です。](https://dev.classmethod.jp/articles/join-ishii-20251104/)
 <!-- BLOG-POST-LIST:END -->
 

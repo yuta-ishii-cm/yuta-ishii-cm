@@ -25,7 +25,7 @@ const yuta: Developer = {
   role: "Backend Engineer",
   learning: ["Swift", "Go", "Rust"],
   interests: ["Cloud Architecture", "TypeScript"],
-  funFact: "Ramen enthusiast 🍜 (Favorites: Menji in Fukuoka, Kiki in Kagoshima)"
+  funFact: "Ramen enthusiast 🍜 (Favorites: Menshi in Fukuoka, Kiki in Kagoshima)"
 };
 ```
 

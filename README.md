@@ -80,15 +80,6 @@ const yuta: Developer = {
 
 ---
 
-## ⏱️ WakaTime Stats
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-> 📌 WakaTime stats will appear here after setup!
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">

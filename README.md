@@ -136,6 +136,7 @@ const yuta: Developer = {
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Slidev × Claude Codeで自己紹介スライドを作ってみた](https://dev.classmethod.jp/articles/slidev-claude-code/)
 - [VitePressでドキュメントサイト構築してGitHub Pagesで公開してみた](https://dev.classmethod.jp/articles/vitepress-github-pages/)
 - [入社して1ヶ月半が経ったので振り返ってみた](https://dev.classmethod.jp/articles/reflection-1month-20251219/)
 - [産業支援グループ 製造ビジネステクノロジー部にジョインしました、石井悠汰（いしいゆうた）です。](https://dev.classmethod.jp/articles/join-ishii-20251104/)

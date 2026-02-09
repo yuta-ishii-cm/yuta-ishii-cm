@@ -136,6 +136,7 @@ const yuta: Developer = {
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[小ネタ] Obsidianにテキストを貼り付けると改行が2倍になる原因と対処法](https://dev.classmethod.jp/articles/obsidian-2/)
 - [Slidev × Claude Codeで自己紹介スライドを作ってみた](https://dev.classmethod.jp/articles/slidev-claude-code/)
 - [VitePressでドキュメントサイト構築してGitHub Pagesで公開してみた](https://dev.classmethod.jp/articles/vitepress-github-pages/)
 - [入社して1ヶ月半が経ったので振り返ってみた](https://dev.classmethod.jp/articles/reflection-1month-20251219/)

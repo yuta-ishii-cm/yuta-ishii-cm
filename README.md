@@ -136,11 +136,11 @@ const yuta: Developer = {
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [【前篇】 Rustでダミーファイル生成CLIツールを作りながら基礎を学ぶ](https://dev.classmethod.jp/articles/rust-cli-file-generator-part1/)
 - [[小ネタ] Obsidianにテキストを貼り付けると改行が2倍になる原因と対処法](https://dev.classmethod.jp/articles/obsidian-2/)
 - [Slidev × Claude Codeで自己紹介スライドを作ってみた](https://dev.classmethod.jp/articles/slidev-claude-code/)
 - [VitePressでドキュメントサイト構築してGitHub Pagesで公開してみた](https://dev.classmethod.jp/articles/vitepress-github-pages/)
 - [入社して1ヶ月半が経ったので振り返ってみた](https://dev.classmethod.jp/articles/reflection-1month-20251219/)
-- [産業支援グループ 製造ビジネステクノロジー部にジョインしました、石井悠汰（いしいゆうた）です。](https://dev.classmethod.jp/articles/join-ishii-20251104/)
 <!-- BLOG-POST-LIST:END -->
 
 > 📌 Blog posts from [DevelopersIO](https://dev.classmethod.jp/author/ishii-yuta/) will appear here with GitHub Actions!

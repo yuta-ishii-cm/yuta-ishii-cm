@@ -136,11 +136,11 @@ const yuta: Developer = {
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [なごやクラメソゆる勉強会 #1 で「Claude Codeに自分のアプリを攻撃させる」話をしてきました](https://dev.classmethod.jp/articles/matchpump-development-claude-code/)
 - [v0 でクラウド認定バッジ整列ツールを作って Vercel にデプロイしてみた](https://dev.classmethod.jp/articles/v0-cloud-badge-aligner-tool/)
 - [Claude Code の /batch コマンドで同じ作業を6並列で回してみた](https://dev.classmethod.jp/articles/claude-code-batch-parallel/)
 - [Node.js/TypeScriptのawait usingでリソース管理を安全に](https://dev.classmethod.jp/articles/nodejs-typescript-await-using-resource/)
 - [A2UI入門 — GoogleのUIプロトコルを動かしてみた](https://dev.classmethod.jp/articles/a2ui-ai-ui/)
-- [LBもDNSもSSL証明書も不要！Cloud Run + IAPでの社内向けサービスの限定公開がここまで楽になった](https://dev.classmethod.jp/articles/lb-dns-ssl-cloud-run-iap/)
 <!-- BLOG-POST-LIST:END -->
 
 > 📌 Blog posts from [DevelopersIO](https://dev.classmethod.jp/author/ishii-yuta/) will appear here with GitHub Actions!

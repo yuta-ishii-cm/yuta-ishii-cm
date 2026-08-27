@@ -136,11 +136,11 @@ const yuta: Developer = {
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dependabot auto-triage rules の書き方と挙動を検証してみた](https://dev.classmethod.jp/articles/dependabot-auto-triage-rules-sandbox-test/)
 - [Cloudflare Registrarでドメインを新規取得してCloudflare Pagesに割り当ててみた](https://dev.classmethod.jp/articles/cloudflare-registrar-domain-registration/)
 - [Claude Coworkで議事録から自分のタスクを抽出してSlack Canvasに追記してみた](https://dev.classmethod.jp/articles/google-meet-task-extraction-cowork/)
 - [S3 Presigned URLをCloudFrontでリバプロする構成を検証してみた](https://dev.classmethod.jp/articles/cloudfront-s3-signature-oac-comparison/)
 - [なごやクラメソゆる勉強会 #1 で「Claude Codeに自分のアプリを攻撃させる」話をしてきました](https://dev.classmethod.jp/articles/matchpump-development-claude-code/)
-- [v0 でクラウド認定バッジ整列ツールを作って Vercel にデプロイしてみた](https://dev.classmethod.jp/articles/v0-cloud-badge-aligner-tool/)
 <!-- BLOG-POST-LIST:END -->
 
 > 📌 Blog posts from [DevelopersIO](https://dev.classmethod.jp/author/ishii-yuta/) will appear here with GitHub Actions!

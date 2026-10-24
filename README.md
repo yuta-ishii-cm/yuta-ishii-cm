@@ -136,11 +136,11 @@ const yuta: Developer = {
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TTFBは速いのに表示が遅いVercelのページ、関数リージョンが既定のままだった](https://dev.classmethod.jp/articles/vercel-slow-function-region-iad1/)
+- [Lambdaの/tmpを使わずにS3上の数十GBのZIPを解凍してみた](https://dev.classmethod.jp/articles/lambda-unzip-s3-zip-larger-than-tmp/)
+- [「アラート対応をAIエージェントでどこまでできるか試してみた」というタイトルで DevelopersIO 2026 Nagoya に登壇しました #devio2026](https://dev.classmethod.jp/articles/devio2026-nagoya-ai-agent-alert-response/)
 - [Dependabot auto-triage rules の書き方と挙動を検証してみた](https://dev.classmethod.jp/articles/dependabot-auto-triage-rules-sandbox-test/)
 - [Cloudflare Registrarでドメインを新規取得してCloudflare Pagesに割り当ててみた](https://dev.classmethod.jp/articles/cloudflare-registrar-domain-registration/)
-- [Claude Coworkで議事録から自分のタスクを抽出してSlack Canvasに追記してみた](https://dev.classmethod.jp/articles/google-meet-task-extraction-cowork/)
-- [S3 Presigned URLをCloudFrontでリバプロする構成を検証してみた](https://dev.classmethod.jp/articles/cloudfront-s3-signature-oac-comparison/)
-- [なごやクラメソゆる勉強会 #1 で「Claude Codeに自分のアプリを攻撃させる」話をしてきました](https://dev.classmethod.jp/articles/matchpump-development-claude-code/)
 <!-- BLOG-POST-LIST:END -->
 
 > 📌 Blog posts from [DevelopersIO](https://dev.classmethod.jp/author/ishii-yuta/) will appear here with GitHub Actions!
